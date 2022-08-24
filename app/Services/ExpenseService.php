@@ -46,7 +46,7 @@ class ExpenseService
         if(!$provider){
             return response()->json(['error'=>'Fornecedor não encontrato']);
         }
-        sleep(10);
+
         $data->update($request->only(
             'provider_id',
             'cost_center_id',
