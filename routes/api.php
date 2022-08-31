@@ -1,7 +1,7 @@
 <?php
 
 use App\Http\Controllers\Api\ProviderController;
-use App\http\Controllers\Api\CostCenterController;
+use App\Http\Controllers\Api\CostCenterController;
 use App\Http\Controllers\Api\ExpenseController;
 use App\Http\Controllers\Api\TypeExpenseController;
 use App\Http\Controllers\Api\AuthController;

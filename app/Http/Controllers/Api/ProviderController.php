@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Api;
 use App\Http\Controllers\Controller;
 
 use Illuminate\Http\Request;
-use App\services\ProviderService;
+use App\Services\ProviderService;
 
 class ProviderController extends Controller
 {
